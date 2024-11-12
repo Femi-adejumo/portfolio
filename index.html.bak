@@ -31,18 +31,24 @@
       <div class="bottom">
         <!-- Social Icons -->
         <ul class="icons">
-          <li><a href="https://twitter.com/the_ds_hacker" class="icon brands fa-twitter"><span
+          <li><a href="https://twitter.com/the_ds_hacker" class="icon brands fa-twitter"><span
+
                 class="label">Twitter</span></a></li>
-          <li><a href="https://www.linkedin.com/in/ifeoluwa-oduwaiye" class="icon brands fa-linkedin"><span
+          <li><a href="https://www.linkedin.com/in/ifeoluwa-oduwaiye" class="icon brands fa-linkedin"><span
+
                 class="label">Facebook</span></a></li>
-          <li><a href="https://github.com/Nalito" class="icon brands fa-github"><span
+          <li><a href="https://github.com/Nalito" class="icon brands fa-github"><span
+
                 class="label">Github</span></a></li>
           <!--<li><a href="#" class="fa-brands fa-medium"><span class="label">Dribbble</span></a></li>-->
-          <li><a href="https://medium.com/@ifeoluwaoduwaiye"><svg xmlns="http://www.w3.org/2000/svg"
-                height="16" width="20" viewBox="0 0 640 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path
+          <li><a href="https://medium.com/@ifeoluwaoduwaiye"><svg xmlns="http://www.w3.org/2000/svg"
+
+                height="16" width="20" viewBox="0 0 640 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path
+
                   d="M180.5 74.3C80.8 74.3 0 155.6 0 256S80.8 437.7 180.5 437.7 361 356.4 361 256 280.2 74.3 180.5 74.3zm288.3 10.6c-49.8 0-90.2 76.6-90.2 171.1s40.4 171.1 90.3 171.1 90.3-76.6 90.3-171.1H559C559 161.5 518.6 84.9 468.8 84.9zm139.5 17.8c-17.5 0-31.7 68.6-31.7 153.3s14.2 153.3 31.7 153.3S640 340.6 640 256C640 171.4 625.8 102.7 608.3 102.7z"></path></svg></a><br>
           </li>
-          <li><a href="mailto:ifeoluwaoduwaiye@gmail.com" class="icon solid fa-envelope"><span
+          <li><a href="mailto:ifeoluwaoduwaiye@gmail.com" class="icon solid fa-envelope"><span
+
                 class="label">Email</span></a></li>
         </ul>
       </div>
@@ -71,22 +77,24 @@
           </header>
           <div class="row">
             <div class="col-4 col-12-mobile">
-              <article class="item"> <a href="https://github.com/Nalito/customer-segmentation"
-                  target="_blank" class="image fit"><img src="images/images%20%281%29.jpg"
-                    style="width: 273px; height: 183px;"></a>
+              <article class="item"> <a href="https://github.com/Femi500" target="_blank"
+
+                  class="image fit"><img src="images/images%20%281%29.jpg" style="width: 273px; height: 183px;"></a>
                 <header>
                   <h3>Customer Segmentation with Python</h3>
                 </header>
               </article>
-              <article class="item"> <a href="https://github.com/Nalito/Shoe-Recognition-model-using-transfer-learning"
-                  target="_blank" class="image fit"><img src="images/images%20%282%29.jpg"
-                    style="width: 273px; height: 168px;"></a>
+              <article class="item"> <a href="https://github.com/Femi500" target="_blank"
+
+                  class="image fit"><img src="images/images%20%282%29.jpg" style="width: 273px; height: 168px;"></a>
                 <header>
                   <h3>NLP -based Chat-bot</h3>
                 </header>
               </article>
-              <article class="item"> <a href="https://github.com/Nalito/Shoe-Recognition-model-using-transfer-learning"
-                  target="_blank" class="image fit"><img src="images/download%20%284%29.jpg"
+              <article class="item"> <a href="https://github.com/Femi-adejumo/EDA--Project/"
+
+                  class="image fit"><img src="images/download%20%284%29.jpg"
+
                     style="width: 273px; height: 168px;"></a>
                 <header>
                   <h3>Consumer Behavior Analysis</h3>
@@ -94,44 +102,46 @@
               </article>
             </div>
             <div class="col-4 col-12-mobile">
-              <article class="item"> <a href="https://github.com/Nalito/nigeria-unemployment-analysis"
-                  target="_blank" class="image fit"><img src="images/download.jpg"></a>
+              <article class="item"> <a href="https://github.com/Femi500" target="_blank"
+
+                  class="image fit"><img src="images/download.jpg"></a>
                 <header>
                   <h3><strong><b>House Price Prediction</b></strong></h3>
                 </header>
               </article>
-              <article class="item"> <a href="https://github.com/Nalito/churn-deployment-demo"
-                  target="_blank" class="image fit"><img src="images/download%20%282%29.jpg"
-                    style="width: 273px; height: 171px;"></a>
+              <article class="item"> <a href="https://github.com/Femi500" target="_blank"
+
+                  class="image fit"><img src="images/download%20%282%29.jpg" style="width: 273px; height: 171px;"></a>
                 <header> <a href="https://churn-prototype.azurewebsites.net/">
                     <h3>AI Fraud detection in Real Time</h3>
                   </a> </header>
               </article>
-              <article class="item"> <a href="https://github.com/Nalito/Shoe-Recognition-model-using-transfer-learning"
-                  target="_blank" class="image fit"><img src="images/images%20%284%29.jpg"
-                    style="width: 273px; height: 168px;"></a>
+              <article class="item"> <a href="https://github.com/Femi500" target="_blank"
+
+                  class="image fit"><img src="images/images%20%284%29.jpg" style="width: 273px; height: 168px;"></a>
                 <header>
                   <h3>Deep Learning for Medical Image Analysis</h3>
                 </header>
               </article>
             </div>
             <div class="col-4 col-12-mobile">
-              <article class="item"> <a href="https://github.com/Nalito/Market-Basket-Analysis"
-                  target="_blank" class="image fit"><img src="images/download%20%281%29.jpg"
-                    style="width: 273px; height: 181px;"></a>
+              <article class="item"> <a href="https://github.com/Femi500" target="_blank"
+
+                  class="image fit"><img src="images/download%20%281%29.jpg" style="width: 273px; height: 181px;"></a>
                 <header>
                   <h3>YouTube Comment Analysis</h3>
                 </header>
               </article>
-              <article class="item"> <a href="https://github.com/Nalito/employee-attrition"
-                  target="_blank" class="image fit"><img src="images/download%20%283%29.jpg"
-                    style="width: 273px; height: 168px;"></a>
+              <article class="item"> <a href="https://github.com/Femi500" target="_blank"
+
+                  class="image fit"><img src="images/download%20%283%29.jpg" style="width: 273px; height: 168px;"></a>
                 <header>
                   <h3>AI Speech to Text System </h3>
                 </header>
               </article>
-              <article class="item"> <a href="https://github.com/Nalito/Shoe-Recognition-model-using-transfer-learning"
-                  target="_blank" class="image fit"><img src="images/2.jpg" style="width: 273px; height: 168px;"></a>
+              <article class="item"> <a href="https://github.com/Femi500" target="_blank"
+
+                  class="image fit"><img src="images/2.jpg" style="width: 273px; height: 168px;"></a>
                 <header>
                   <h3>Image Recognition with CIFAR-10</h3>
                 </header>
@@ -148,9 +158,9 @@
           </header>
           <div class="row">
             <div class="col-4 col-12-mobile">
-              <article class="item"> <a href="https://blog.devops.dev/market-basket-analysis-with-python-and-apriori-algorithm-82cef11fb950"
-                  target="_blank" class="image fit"><img src="images/images-mba%20art.png"
-                    alt=""></a>
+              <article class="item"> <a href="https://github.com/Femi500" target="_blank"
+
+                  class="image fit"><img src="images/images-mba%20art.png" alt=""></a>
                 <header>
                   <h3><br>
                   </h3>
@@ -158,9 +168,9 @@
               </article>
             </div>
             <div class="col-4 col-12-mobile">
-              <article class="item"> <a href="https://blog.devops.dev/how-i-deployed-a-churn-prediction-model-on-microsoft-azure-d67c29305a14"
-                  target="_blank" class="image fit"><img src="images/images-churn%20art.png"
-                    alt=""></a>
+              <article class="item"> <a href="https://github.com/Femi500" target="_blank"
+
+                  class="image fit"><img src="images/images-churn%20art.png" alt=""></a>
                 <header>
                   <h3><br>
                   </h3>
@@ -168,9 +178,9 @@
               </article>
             </div>
             <div class="col-4 col-12-mobile">
-              <article class="item"> <a href="https://blog.devops.dev/an-article-on-data-science-salaries-b84dd36eb47"
-                  target="_blank" class="image fit"><img src="images/images-ds%20art.png"
-                    alt=""></a>
+              <article class="item"> <a href="https://github.com/Femi500" target="_blank"
+
+                  class="image fit"><img src="images/images-ds%20art.png" alt=""></a>
                 <header>
                   <h3><br>
                   </h3>
@@ -204,17 +214,18 @@
             <h2>Contact</h2>
           </header>
           <p>Leave a message at the <em>beep</em>.</p>
-          <form action="mailto:ifeoluwaoduwaiye@gmail.com?subject=PortfolioMessage"
-            enctype="text/plain" onsubmit="location.href='thanks.html';">
-            <div class="row">
-              <div class="col-6 col-12-mobile"><input name="name" placeholder="Name"
-                  type="text"></div>
-              <div class="col-6 col-12-mobile"><input name="email" placeholder="Email"
-                  type="text"></div>
-              <div class="col-12"> <textarea name="message" placeholder="Message"></textarea>
-              </div>
-              <div class="col-12"> <input value="Send Message" type="submit"> </div>
+          <form action="https://formspree.io/f/meoqkzzl" method="POST" enctype="multipart/form-data"
+
+            <div="" class="row">
+            <div class="col-6 col-12-mobile"><input name="name" placeholder="Name"
+
+                type="text"></div>
+            <div class="col-6 col-12-mobile"><input name="email" placeholder="Email"
+
+                type="email"></div>
+            <div class="col-12"> <textarea name="message" placeholder="Message"></textarea>
             </div>
+            <div class="col-12"> <input value="Send Message" type="submit"> </div>
           </form>
         </div>
       </section>
